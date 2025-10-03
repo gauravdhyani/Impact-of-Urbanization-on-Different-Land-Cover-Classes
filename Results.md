@@ -4,13 +4,40 @@
 
 ## 5.1 Results  
 
- Delhi Shapefile (Region of Interest)  
- Marked Features (Urban, Vegetation, Water, Forest, Bareland training samples)  
- Sentinel-2 Aerial Data (2022 Composite)  
- Classified Land Cover Map (2022)  
- Sentinel-2 Aerial Data (2023 Composite)  
- Classified Land Cover Map (2023)  
- Change Detection Map (Difference 2022–2023)  
+ <figure>
+  <img width="940" height="529" alt="Delhi Shapefile" src="https://github.com/user-attachments/assets/9c282cea-7aee-4a23-b592-47adf43dea3a" />
+  <figcaption><b>Delhi Shapefile (Region of Interest)</b></figcaption>
+</figure>
+
+  <figure>
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/686c263c-79f0-429f-9952-86ce3958dcf2" />
+  <figcaption><b>Marked Features (Urban, Vegetation, Water, Forest, Bareland training samples)</b></figcaption>
+</figure>
+
+ <figure>
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/8add39fc-2dec-47c9-9d2e-fb4cd08937e7" />
+  <figcaption><b>Sentinel-2 Aerial Data (2022 Composite) </b></figcaption>
+</figure>
+
+ <figure>
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1bd3ca04-f81c-445c-822d-f6777110f205" />
+  <figcaption><b>Classified Land Cover Map (2022)</b></figcaption>
+</figure>
+
+ <figure>
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d0161dae-6869-43b4-a3e4-f26894b8f1a5" />
+  <figcaption><b>Sentinel-2 Aerial Data (2023 Composite)</b></figcaption>
+</figure>
+
+ <figure>
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c810dd42-bf49-4baf-80cc-59006ee89b31" />
+  <figcaption><b>Classified Land Cover Map (2023)  </b></figcaption>
+</figure>
+
+ <figure>
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/58c67f51-9b46-43dc-8072-a77328b8f33f" />
+  <figcaption><b>Change Detection Map (Difference 2022–2023)  </b></figcaption>
+</figure>
 
 ---
 
