@@ -2,7 +2,7 @@
 
 ---
 
-## 5.1 Results  
+##  Results  
 
  <figure>
   <img width="940" height="529" alt="Delhi Shapefile" src="https://github.com/user-attachments/assets/9c282cea-7aee-4a23-b592-47adf43dea3a" />
